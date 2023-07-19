@@ -22,6 +22,4 @@
 
 <div align="center"> <img src="./imgs/tela02.png" width="50%" /></div>
 
-<p>Digite o local desejado e pesquise para ter suas informações .</p>
-
 - <a href="https://rodrigofrancosantos.github.io/TemaDarkLogin/" target="_ blank" >Teste o projeto, aqui !</a>
